@@ -2,4 +2,5 @@
 	"author": "Fernanda C",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "package" ],
+	"license": "MIT",
 }
